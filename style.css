@@ -1,0 +1,12 @@
+#sketch-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+    height: 960px;
+}
+
+.grid-box {
+    /* border: 5px solid black; */
+}
